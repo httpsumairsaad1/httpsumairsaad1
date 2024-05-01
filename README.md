@@ -43,7 +43,7 @@
         <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
    </a>
 </div>
-
+<div align=center><img src="https://streak-stats.demolab.com/?user=httpsumairsaad1"/></div>
 <!--
 **httpsumairsaad1/httpsumairsaad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
