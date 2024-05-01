@@ -5,8 +5,43 @@
 </h1>
 
 <div align="center">
-        <img src"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-        <img src"https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" />
+    👨‍💻 Umair Saad | 🇵🇰 Pakistan
+🎓 Computer Science undergrad
+💻 Java | MERN Stack | UI/UX Designer
+🚀 Let's turn ideas into reality!
+</div>
+
+<div align="center">
+    <a href="https://umairsaad-portfolio.netlify.app/">
+        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
+   </a>
+    <a href="mailto:umairsaad52@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red target="_blank"/>
+   </a>
+   <a href="https://www.linkedin.com/in/umair-saad-79393a235/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+    <a href="https://www.hackerrank.com/profile/umairsaad52">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+    </a>
+   <a href="https://leetcode.com/u/Umair__Saad/">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+   </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+   </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6e"/>
+    </a>
+    <a href="https://www.behance.net/umairsaad2">
+        <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
+   </a>
+    <a href="https://dribbble.com/umairsaad">
+        <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
+   </a>
+        <a href="https://x.com/UmairSaad8?t=jie8olmAdqRECq9ZLUspVw&s=09">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+   </a>
 </div>
 
 <!--
