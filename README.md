@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=httpsumairsaad1.httpsumairsaad1"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Libre+Barcode+128+Text&size=50&duration=2499&pause=800&color=F7A400&background=FF860F00&center=true&random=false&width=435&lines=Hello%2C+I'm+UMAIR+SAAD;I'm+MERN+Stack+Developer;%26+UI-UX+designer)](https://git.io/typing-svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Libre+Barcode+128+Text&size=50&duration=2499&pause=800&color=F7A400&background=FF860F00&center=true&random=false&width=435&lines=Hello%2C+I'm+UMAIR+SAAD;I'm+MERN+Stack+Developer;%26+UI%2FUX+Designer;" />
 </h1>
 <!--
 **httpsumairsaad1/httpsumairsaad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
