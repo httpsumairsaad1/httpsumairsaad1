@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=httpsumairsaad1.httpsumairsaad1)
+
 <!--
 **httpsumairsaad1/httpsumairsaad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
