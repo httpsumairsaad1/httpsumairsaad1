@@ -5,6 +5,9 @@
 </h1>
 
 <div align="center">
+    <a href="https://www.instagram.com/@umairsaad_">
+        <img src"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
     <a href="https://www.threads.net/@umairsaad_">
         <img src"https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" />
     </a>
