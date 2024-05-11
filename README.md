@@ -11,6 +11,10 @@
 🚀 Let's turn ideas into reality!
 </div>
 
+
+<div align=center>
+    <img src="https://streak-stats.demolab.com/?user=httpsumairsaad1"/>
+</div>
 <div align="center">
     <a href="https://umairsaad-portfolio.netlify.app/">
         <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
@@ -44,9 +48,7 @@
    </a>
 </div>
 <div align=center>
-    <img src="https://streak-stats.demolab.com/?user=httpsumairsaad1"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" />
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsumairsaad1&layout=donut" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsumairsaad1&langs_count=8" />
 </div>
 <!--
 **httpsumairsaad1/httpsumairsaad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
