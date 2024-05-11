@@ -47,7 +47,7 @@
     <img src="https://streak-stats.demolab.com/?user=httpsumairsaad1"/>
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsumairsaad1&layout=compact" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsumairsaad1&layout=donut" />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api?username=httpsumairsaad1&show_icons=true&theme=transparent" />
 </div>
 <!--
 **httpsumairsaad1/httpsumairsaad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
