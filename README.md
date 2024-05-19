@@ -7,7 +7,9 @@
 <div align="center">
     👨‍💻 Umair Saad | 🇵🇰 Pakistan
 🎓 Computer Science undergrad
-💻 Java | MERN Stack | UI/UX Designer
+</div>
+<div align="center">
+    💻 Java | MERN Stack | UI/UX Designer
 🚀 Let's turn ideas into reality!
 </div>
 
