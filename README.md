@@ -4,6 +4,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Libre+Barcode+128+Text&size=50&duration=2499&pause=800&color=F7A400&background=FF860F00&center=true&random=false&width=435&lines=Hello%2C+I'm+UMAIR+SAAD;I'm+MERN+Stack+Developer;%26+UI%2FUX+Designer;" />
 </h1>
 
+<div align=right>
+    <img align=right alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+</div>
+
+
 <div align="center">
     👨‍💻 Umair Saad | 🇵🇰 Pakistan
 🎓 Computer Science undergrad
