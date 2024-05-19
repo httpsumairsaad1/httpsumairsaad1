@@ -11,10 +11,6 @@
 🚀 Let's turn ideas into reality!
 </div>
 
-
-<div align=center>
-    <img src="https://streak-stats.demolab.com/?user=httpsumairsaad1"/>
-</div>
 <div align="center">
     <a href="https://umairsaad-portfolio.netlify.app/">
         <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
@@ -47,7 +43,14 @@
         <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
    </a>
 </div>
+
+
+<img align="right" alt="coding" width="375" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <div align=center>
+    <img src="https://streak-stats.demolab.com/?user=httpsumairsaad1"/>
+</div>
+
+<div align=right>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsumairsaad1&langs_count=8" />
 </div>
 <!--
