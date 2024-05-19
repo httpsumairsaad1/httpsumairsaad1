@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-    <a href="https://umairsaad-portfolio.netlify.app/">
+<a href="https://umairsaad-portfolio.netlify.app/">
         <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
    </a>
     <a href="mailto:umairsaad52@gmail.com">
@@ -29,6 +29,9 @@
    <a href="https://leetcode.com/u/Umair__Saad/">
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
    </a>
+</div>
+
+<div align="center">
     <a href="">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
    </a>
