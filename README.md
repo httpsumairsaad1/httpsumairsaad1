@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" alt="Animated GIF" width="450" height="200">
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/zyFcsWHX2fdpyb5SBi/giphy.gif" alt="Animated GIF" width="800" height="220">
+  <img src="https://media.giphy.com/media/zyFcsWHX2fdpyb5SBi/giphy.gif" alt="Animated GIF" width="650" height="220">
 </div>
 
 
