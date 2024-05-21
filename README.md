@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/zyFcsWHX2fdpyb5SBi/giphy.gif" alt="Animated GIF" width="650" height="220">
+  <img src="https://media.giphy.com/media/3o72FaZgzzFmqoNfBm/giphy.gif" alt="Animated GIF" width="600" height="200">
 </div>
+
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=httpsumairsaad1.httpsumairsaad1"/>
