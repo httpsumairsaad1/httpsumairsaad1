@@ -1,7 +1,6 @@
-<div align="center" style="width: 800px; height: 220px; overflow: hidden;">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Animated GIF" style="width: 100%; height: 100%; object-fit: cover;">
+<div align="center" style="width: 960px; height: 240px; overflow: hidden;">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Animated GIF" style="width: 100%; height: 100%; object-fit: cover;" width="960" height="240">
 </div>
-
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=httpsumairsaad1.httpsumairsaad1"/>
