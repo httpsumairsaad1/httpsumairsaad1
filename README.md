@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" alt="Animated GIF" width="900" height="200">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/zyFcsWHX2fdpyb5SBi/giphy.gif" alt="Animated GIF" width="800" height="220">
+</div>
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=httpsumairsaad1.httpsumairsaad1"/>
 
 <h1 align="center">
@@ -59,8 +68,8 @@
 <img align="center" alt="coding" width="375" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 </div>
-
-<div align=center><img src="https://streak-stats.demolab.com?user=httpsumairsaad1&theme=prussian"/> </div>
+<!-- $$$$$$$$$$$$$$$$$$$$$$$ STREAK $$$$$$$$$$$$$$$$$$4--->
+<div align=center><img src="https://streak-stats.demolab.com?user=httpsumairsaad1&theme=merko&border_radius=5"/> </div>
 
 <!-- api issue-->
 
