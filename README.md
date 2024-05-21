@@ -62,9 +62,6 @@
 
 <div align=center><img src="https://streak-stats.demolab.com?user=httpsumairsaad1&theme=prussian"/> </div>
 
-<div align=center>
-    <img src="https://streak-stats.demolab.com/?user=httpsumairsaad1"/>
-</div>
 <!-- api issue-->
 
 <div align=center>
