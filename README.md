@@ -63,6 +63,10 @@
      <!-- ========================man=================== -->
 <img align="center" alt="coding" width="375" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+
+<!-- TROPHY -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=httpsumairsaad1&theme=oldie" alt="httpsumairsaad1" /></a> </p>
+
 </div>
 <!-- $$$$$$$$$$$$$$$$$$$$$$$ STREAK $$$$$$$$$$$$$$$$$$4--->
 <div align=center><img src="https://streak-stats.demolab.com?user=httpsumairsaad1&theme=merko&border_radius=5"/> </div>
