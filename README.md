@@ -67,7 +67,7 @@
 <!-- TROPHY -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=httpsumairsaad1&theme=flat" alt="httpsumairsaad1" /></a> </p>
 </div>
-<!-- $$$$$$$$$$$$$$$$$$$$$$$ STREAK $$$$$$$$$$$$$$$$$$4--->
+<!-- $$$$$$$$$$$$$$$$$$$$$$ STREAK $$$$$$$$$$$$$$$$$4--->
 <div align=center><img src="https://streak-stats.demolab.com?user=httpsumairsaad1&theme=merko&border_radius=5"/> </div>
 
 <!-- api issue-->
