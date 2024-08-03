@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-<a href="https://umairsaad-portfolio.netlify.app/">
+<a href="https://umairsaad.netlify.app/">
         <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
    </a>
     <a href="mailto:umairsaad52@gmail.com">
