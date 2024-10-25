@@ -10,6 +10,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Libre+Barcode+128+Text&size=50&duration=2499&pause=800&color=000000&background=FF860F00&center=true&random=false&width=435&lines=Hello%2C+I'm+UMAIR+SAAD;I'm+MERN+Stack+Developer;%26+UI%2FUX+Designer;" />
 </h1>
 
+
+<!-- ========================SSSSSSSNAKEEE =================== -->
+![snake gif](https://github.com/httpsumairsaad1/httpsumairsaad1/blob/output/github-snake.svg)
+
 <!-- <div align=right>
     <img align=right alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </div> -->
@@ -69,8 +73,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=httpsumairsaad1&row=2&column=3" alt="httpsumairsaad1" /></a> </p>
 </div> 
 
-<!-- ========================SSSSSSSNAKEEE =================== -->
-![snake gif](https://github.com/httpsumairsaad1/httpsumairsaad1/blob/output/github-snake.svg)
 
 <!-- api issue-->
 
