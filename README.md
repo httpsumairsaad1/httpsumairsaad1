@@ -64,26 +64,23 @@
      <!-- ========================man=================== -->
 <img align="center" alt="coding" width="375" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<!-- Snake -->
-<div align="center">
-  <h2>🐍 My GitHub Contributions 🐍</h2>
-    
-  ![snake gif](https://github.com/httpsumairsaad1/httpsumairsaad1/blob/output/github-snake.svg)
-
-  <br>
-</div>
 
 <!-- TROPHY -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=httpsumairsaad1&theme=flat" alt="httpsumairsaad1" /></a> </p>
-</div>
-<!-- $$$$$$$$$$$$$$$$$$$$$$ STREAK $$$$$$$$$$$$$$$$$4--->
-<div align=center><img src="https://streak-stats.demolab.com?user=httpsumairsaad1&theme=merko&border_radius=5"/> </div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=httpsumairsaad1&row=2&column=3" alt="httpsumairsaad1" /></a> </p>
+</div> 
+
 
 <!-- api issue-->
 
 <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsumairsaad1&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsumairsaad1&langs_count=5" />
 </div>
+
+
+
+<!-- $$$$$$$$$$$$$$$$$$$$$$ STREAK $$$$$$$$$$$$$$$$$4--->
+<div align=center><img src="https://streak-stats.demolab.com?user=httpsumairsaad1&theme=merko&border_radius=5"/> </div>
+
 <!--
 **httpsumairsaad1/httpsumairsaad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
