@@ -64,6 +64,14 @@
      <!-- ========================man=================== -->
 <img align="center" alt="coding" width="375" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+<!-- Snake -->
+<div align="center">
+  <h2>🐍 My GitHub Contributions 🐍</h2>
+    
+  ![snake gif](https://github.com/httpsumairsaad1/httpsumairsaad1/blob/output/github-snake.svg)
+
+  <br>
+</div>
 
 <!-- TROPHY -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=httpsumairsaad1&theme=flat" alt="httpsumairsaad1" /></a> </p>
