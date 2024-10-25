@@ -15,14 +15,14 @@
 </div> -->
 
 
-<div align="center">
+<!-- <div align="center">
     👨‍💻 Umair Saad | 🇵🇰 Pakistan
 🎓 Computer Science undergrad
 </div>
 <div align="center">
     💻 Java | MERN Stack | UI/UX Designer
 🚀 Let's turn ideas into reality!
-</div>
+</div> -->
 
 <div align="center">
 <a href="https://umairsaad.netlify.app/">
