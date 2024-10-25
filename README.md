@@ -4,12 +4,12 @@
 </div>
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=httpsumairsaad1.httpsumairsaad1"/>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=httpsumairsaad1.httpsumairsaad1"/>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=1800&pause=500&color=F7BD29&width=435&lines=Hello%2C+Umair+Saad+here!;Mobile+App+Developer;Data+Science+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+  
 </h1>
-
 
 <!-- ========================SSSSSSSNAKEEE =================== -->
 ![snake gif](https://github.com/httpsumairsaad1/httpsumairsaad1/blob/output/github-snake.svg)
