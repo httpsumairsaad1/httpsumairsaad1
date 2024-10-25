@@ -7,7 +7,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=httpsumairsaad1.httpsumairsaad1"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Libre+Barcode+128+Text&size=50&duration=2499&pause=800&color=000000&background=FF860F00&center=true&random=false&width=435&lines=Hello%2C+I'm+UMAIR+SAAD;I'm+MERN+Stack+Developer;%26+UI%2FUX+Designer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=1800&pause=500&color=F7BD29&width=435&lines=Hello%2C+Umair+Saad+here!;Mobile+App+Developer;Data+Science+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
 </h1>
 
 
