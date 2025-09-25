@@ -42,13 +42,17 @@
    </a>
 </div>
 
-<div align="center">
-
-  <img src="https://leetcode.com/medal/?showImg=0&id=7980619&isLevel=false" alt="500 Days Submission" />
-  <img src="https://leetcode.com/medal/?showImg=0&id=7907146&isLevel=false" alt="200 Days in 2025" />
-  <img src="https://leetcode.com/medal/?showImg=0&id=6577486&isLevel=false" alt="365 Days Submission" />
-  <img src="https://leetcode.com/medal/?showImg=0&id=3642488&isLevel=false" alt="First Badge" />
-
+<!-- LEETCODE-->
+<div align="center"> 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Submission-Days/GIF/500.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Submission-Days/GIF/365.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  
+</p>
+</h2>
 </div>
 
 
