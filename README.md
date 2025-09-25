@@ -30,9 +30,7 @@
 <a href="https://umairsaad.netlify.app/">
         <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
    </a>
-    <a href="mailto:umairsaad52@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red target="_blank"/>
-   </a>
+    
    <a href="https://www.linkedin.com/in/umair-saad-79393a235/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
@@ -43,6 +41,16 @@
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
    </a>
 </div>
+
+<div align="center">
+
+  <img src="https://leetcode.com/medal/?showImg=0&id=7980619&isLevel=false" alt="500 Days Submission" />
+  <img src="https://leetcode.com/medal/?showImg=0&id=7907146&isLevel=false" alt="200 Days in 2025" />
+  <img src="https://leetcode.com/medal/?showImg=0&id=6577486&isLevel=false" alt="365 Days Submission" />
+  <img src="https://leetcode.com/medal/?showImg=0&id=3642488&isLevel=false" alt="First Badge" />
+
+</div>
+
 
 <div align="center">
     <a href="">
