@@ -1,6 +1,8 @@
 <!-- programming-->
 <div align="center">
-  <img src="https://github.com/httpsumairsaad1/httpsumairsaad1/assets/121795621/686baca2-0c65-4d16-8d96-1ca738a52962" alt="Animated GIF"/>
+  <!-- Moving coding bottom to UP -->
+  <!-- <img src="https://github.com/httpsumairsaad1/httpsumairsaad1/assets/121795621/686baca2-0c65-4d16-8d96-1ca738a52962" alt="Animated GIF"/> -->
+  <img width="1584" height="396" alt="banner linkedin" src="https://github.com/user-attachments/assets/e6955a4d-14a5-4cea-a32e-16ab3e86460a" />
 </div>
 
 
