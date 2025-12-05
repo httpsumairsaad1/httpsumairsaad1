@@ -5,7 +5,6 @@
   <img width="1584" height="396" alt="banner linkedin" src="https://github.com/user-attachments/assets/e6955a4d-14a5-4cea-a32e-16ab3e86460a" />
 </div>
 
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=httpsumairsaad1.httpsumairsaad1"/>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=1800&pause=500&color=ff9900&width=435&lines=Hello%2C+Umair+Saad+here!;Mobile+App+Developer;Data+Science+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
