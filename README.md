@@ -9,7 +9,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=1800&pause=500&color=ff9900&width=435&lines=Hello%2C+Umair+Saad+here!;Mobile+App+Developer;Data+Science+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
 </h1>
-
+  
 <!-- ========================SSSSSSSNAKEEE =================== -->
 ![snake gif](https://github.com/httpsumairsaad1/httpsumairsaad1/blob/output/github-snake.svg)
 
@@ -56,6 +56,9 @@
 </h2>
 </div>
 
+<div>
+  <iframe src="https://activity-grid.vercel.app/widget?leetcode=Umair__Saad&palette=sunset&cell=17&showLegend=1&compact=1" width="600" height="150" frameborder="0" style="border: none;"></iframe>
+</div>
 
 <div align="center">
     <a href="">
