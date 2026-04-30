@@ -47,17 +47,13 @@
 <div align="center"> 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Submission-Days/GIF/500.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/Badges/Submission-Days/GIF/365.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/submission_days/500.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual/2025-annual.png" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/monthly/2024/2024-03.png" height="200" width="200" /></a>
+  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/submission_days/365.gif" alt="jyot" height="200" width="200" /></a>
   
 </p>
 </h2>
-</div>
-
-<div>
-  <iframe src="https://activity-grid.vercel.app/widget?leetcode=Umair__Saad&palette=sunset&cell=17&showLegend=1&compact=1" width="600" height="150" frameborder="0" style="border: none;"></iframe>
 </div>
 
 <div align="center">
