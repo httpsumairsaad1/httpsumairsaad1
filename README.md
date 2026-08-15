@@ -44,13 +44,23 @@
 </div>
 
 <!-- LEETCODE-->
+
 <div align="center"> 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/submission_days/500.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual/2025-annual.png" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/monthly/2024/2024-03.png" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Umair__Saad/" target="_blank"><img align="center" src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/submission_days/365.gif" alt="jyot" height="200" width="200" /></a>
+
+  <a href="https://leetcode.com/u/Umair__Saad/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/lg500.png" alt="LeetCode 500 Days Badge" height="200" width="200" />
+  </a>
+
+  <a href="https://leetcode.com/u/Umair__Saad/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/lg365.png" alt="LeetCode 365 Days Badge" height="200" width="200" />
+  </a>
+
+  <a href="https://leetcode.com/u/Umair__Saad/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/lg100.png" alt="LeetCode 100 Days Badge 2026" height="200" width="200" />
+  </a>
+
   
 </p>
 </h2>
@@ -79,15 +89,18 @@
 <img align="center" alt="coding" width="375" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
+
 <!-- TROPHY -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=httpsumairsaad1&row=2&column=3" alt="httpsumairsaad1" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=httpsumairsaad1&row=2&column=3" alt="httpsumairsaad1" /></a> </p>
+
 </div> 
 
 
 <!-- api issue-->
 
 <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsumairsaad1&langs_count=5" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=httpsumairsaad1&langs_count=5" />
 </div>
 
 
