@@ -20,28 +20,78 @@
 
 <br/>
 
-<!-- CONNECT & PLATFORMS CARD (1 ROW) -->
-<table width="100%" style="background: linear-gradient(165deg, #000000 0%, #1a0000 30%, #0d0000 70%, #000000 100%); border: 1px solid rgba(255, 69, 0, 0.4); border-radius: 16px; box-shadow: 0 8px 32px 0 rgba(255, 69, 0, 0.2);">
-  <tr>
-    <td align="center" style="padding: 20px; background: rgba(40, 0, 0, 0.5); backdrop-filter: blur(10px);">
-      <h3 style="color: #ff6b35; margin-bottom: 15px;">🌐 Connect & Profiles</h3>
-      <a href="https://umairsaad.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ff4500?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-      <a href="https://www.linkedin.com/in/umair-saad-79393a235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="https://www.hackerrank.com/profile/umairsaad52"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-      <a href="https://leetcode.com/u/Umair__Saad/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-      <a href="https://www.behance.net/umairsaad2"><img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-      <a href="https://dribbble.com/umairsaad"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
-      <a href="https://x.com/UmairSaad8?t=jie8olmAdqRECq9ZLUspVw&s=09"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-      <a href=""><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-      <a href=""><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6e"/></a>
-    </td>
-  </tr>
-</table>
+## 🛠 TECHNOLOGY STACK
+
+### 🧠 AI / ML / Data Science
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-4B0082?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-6C47FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fine%20Tuning-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-800080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge"/>
+</p>
+
+### 💻 Languages & Web
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Others
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
 
 <br/>
 
 <!-- LEETCODE BADGES CARD (1 ROW) -->
-<table width="100%" style="background: linear-gradient(165deg, #000000 0%, #1a0000 30%, #0d0000 70%, #000000 100%); border: 1px solid rgba(255, 69, 0, 0.4); border-radius: 16px; box-shadow: 0 8px 32px 0 rgba(255, 69, 0, 0.2);">
+<!-- Primary card — stats + submission heatmap -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Umair__Saad?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=20&accent=ff4500" alt="LeetCode Stats + Heatmap" width="70%"/>
+</p>
+
+<!-- Ranking badge -->
+<p align="center">
+  <a href="https://leetcode.com/u/Umair__Saad/">
+    <img src="https://img.shields.io/badge/View_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+<table align="center" width="100%" style="background: linear-gradient(165deg, #000000 0%, #1a0000 30%, #0d0000 70%, #000000 100%); border: 1px solid rgba(255, 69, 0, 0.4); border-radius: 16px; box-shadow: 0 8px 32px 0 rgba(255, 69, 0, 0.2);">
   <tr>
     <td align="center" style="padding: 20px; background: rgba(40, 0, 0, 0.5); backdrop-filter: blur(10px);">
       <h3 style="color: #ff8c61; margin-bottom: 15px;">🏆 LeetCode Achievements</h3>
@@ -60,6 +110,23 @@
 
 <br/>
 
+<!-- CONNECT & PLATFORMS CARD (1 ROW) -->
+<table align="center" width="100%" style="background: linear-gradient(165deg, #000000 0%, #1a0000 30%, #0d0000 70%, #000000 100%); border: 1px solid rgba(255, 69, 0, 0.4); border-radius: 16px; box-shadow: 0 8px 32px 0 rgba(255, 69, 0, 0.2);">
+  <tr>
+    <td align="center" style="padding: 20px; background: rgba(40, 0, 0, 0.5); backdrop-filter: blur(10px);">
+      <h3 style="color: #ff6b35; margin-bottom: 15px;">🌐 Connect & Profiles</h3>
+      <a href="https://umairsaad.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ff4500?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/umair-saad-79393a235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="https://www.hackerrank.com/profile/umairsaad52"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+      <a href="https://www.behance.net/umairsaad2"><img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+      <a href="https://dribbble.com/umairsaad"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+      <a href="https://x.com/UmairSaad8?t=jie8olmAdqRECq9ZLUspVw&s=09"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+      <a href=""><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+      <a href=""><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6e"/></a>
+    </td>
+  </tr>
+</table>
+
 <!-- CODING ANIMATION & TROPHIES CARD (1 ROW) -->
 <table width="100%" style="background: linear-gradient(165deg, #000000 0%, #1a0000 30%, #0d0000 70%, #000000 100%); border: 1px solid rgba(255, 69, 0, 0.4); border-radius: 16px; box-shadow: 0 8px 32px 0 rgba(255, 69, 0, 0.2);">
   <tr>
@@ -77,8 +144,12 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=httpsumairsaad1&theme=great_gatsby&animation=draw&duration=3&name=Umair+Saad)" width="100%" style="border-radius: 18px; border: 1.5px solid #ff4500; box-shadow: 0 10px 30px rgba(255, 69, 0, 0.25);" />
+</p>
+
 <!-- STATS & STREAK CARD (1 ROW) -->
-<table width="100%" style="background: linear-gradient(165deg, #000000 0%, #1a0000 30%, #0d0000 70%, #000000 100%); border: 1px solid rgba(255, 69, 0, 0.4); border-radius: 16px; box-shadow: 0 8px 32px 0 rgba(255, 69, 0, 0.2);">
+<table align="center" width="100%" style="background: linear-gradient(165deg, #000000 0%, #1a0000 30%, #0d0000 70%, #000000 100%); border: 1px solid rgba(255, 69, 0, 0.4); border-radius: 16px; box-shadow: 0 8px 32px 0 rgba(255, 69, 0, 0.2);">
   <tr>
     <td align="center" width="50%" style="padding: 20px; background: rgba(40, 0, 0, 0.5); border-right: 1px solid rgba(255, 69, 0, 0.4);">
       <h3 style="color: #ff8c61; margin-bottom: 15px;">⚡ Most Used Languages</h3>
