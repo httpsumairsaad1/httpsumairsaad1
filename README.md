@@ -148,7 +148,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=httpsumairsaad1&theme=great_gatsby&animation=draw&duration=3&name=Umair+Saad)" width="100%" style="border-radius: 18px; border: 1.5px solid #ff4500; box-shadow: 0 10px 30px rgba(255, 69, 0, 0.25);" />
 </p>
 
-<!-- STATS & STREAK CARD (1 ROW) -->
+<!-- STATS & STREAK CARD (One ROW) -->
 <table align="center" width="100%" style="background: linear-gradient(165deg, #000000 0%, #1a0000 30%, #0d0000 70%, #000000 100%); border: 1px solid rgba(255, 69, 0, 0.4); border-radius: 16px; box-shadow: 0 8px 32px 0 rgba(255, 69, 0, 0.2);">
   <tr>
     <td align="center" width="50%" style="padding: 20px; background: rgba(40, 0, 0, 0.5); border-right: 1px solid rgba(255, 69, 0, 0.4);">
